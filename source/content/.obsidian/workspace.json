@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Melee Core (Short).md",
+                "file": "backgrounds/Toa Hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melee Core (Short)"
+              "title": "Toa Hero"
             }
           }
         ],
@@ -186,6 +186,18 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "backgrounds/Scholar.md",
+    "backgrounds/Racer.md",
+    "backgrounds/Muscle.md",
+    "backgrounds/Mask Maker.md",
+    "backgrounds/Kolhii Star.md",
+    "backgrounds/Ill Omen.md",
+    "backgrounds/Dark Hunter.md",
+    "backgrounds/Convict.md",
+    "backgrounds/Chronicler.md",
+    "backgrounds/Arms Dealer.md",
+    "backgrounds/Amnesiac.md",
+    "tools/Melee Core (Short).md",
     "tools/Ranged Core (Medium).md",
     "tribes/Vo Tribe (Lightning).md",
     "tribes/Ta Tribe (Fire).md",
@@ -197,18 +209,7 @@
     "tribes/Ba Tribe (Gravity).md",
     "tribes",
     "backgrounds/Toa Hero.md",
-    "backgrounds/Scholar.md",
-    "backgrounds/Racer.md",
-    "backgrounds/Muscle.md",
-    "backgrounds/Mask Maker.md",
-    "backgrounds/Kolhii Star.md",
-    "backgrounds/Ill Omen.md",
-    "backgrounds/Dark Hunter.md",
-    "backgrounds/Convict.md",
-    "backgrounds/Chronicler.md",
-    "backgrounds/Arms Dealer.md",
     "backgrounds",
-    "backgrounds/Amnesiac.md",
     "backgrounds",
     "tools/Melee Core (Medium).md",
     "tools/Melee Core (Long).md",
@@ -217,7 +218,6 @@
     "image1.png",
     "image2.png",
     "image3.png",
-    "category-folder/index.md",
     "category-folder"
   ]
 }
