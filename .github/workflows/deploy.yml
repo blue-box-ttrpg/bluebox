@@ -16,5 +16,5 @@ jobs:
         username: ${{ secrets.SERVER_USER }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
-          cd /home/your-username/character-sheet/content
+          cd /root/character-sheet/content/
           git pull origin main
