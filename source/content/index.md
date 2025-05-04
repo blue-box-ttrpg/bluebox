@@ -1,7 +1,4 @@
----
-title: My GitHub Pages Notebook!
----
+# Welcome to the Blue Box TTRPG!
 
-Hello world!
-
-Write some words here!
+[[Blue Box Core Rules]]
+[Character Sheet](https://charsheet.blueboxrpg.ca/)
