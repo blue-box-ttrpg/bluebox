@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "tools/Ranged Core (Medium).md",
     "tribes/Vo Tribe (Lightning).md",
     "tribes/Ta Tribe (Fire).md",
     "tribes/Po Tribe (Stone).md",
@@ -217,7 +218,6 @@
     "image2.png",
     "image3.png",
     "category-folder/index.md",
-    "category-folder/Some note.md",
     "category-folder"
   ]
 }
