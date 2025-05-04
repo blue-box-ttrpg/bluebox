@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backgrounds/Toa Hero.md",
+                "file": "backgrounds/Amnesiac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toa Hero"
+              "title": "Amnesiac"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "backgrounds/Toa Hero.md",
     "backgrounds/Scholar.md",
     "backgrounds/Racer.md",
     "backgrounds/Muscle.md",
@@ -208,7 +209,6 @@
     "tribes/Fe Tribe (Iron).md",
     "tribes/Ba Tribe (Gravity).md",
     "tribes",
-    "backgrounds/Toa Hero.md",
     "backgrounds",
     "backgrounds",
     "tools/Melee Core (Medium).md",
