@@ -53,14 +53,16 @@ _- Palm, 04/03/2023_
 **Blue Box is a tactical role-playing table-top game set in the world of LEGO's BIONICLE**, with an emphasis on character customization, armor destruction, positioning, and of course; teamwork.
 
 ✦ The Game  
+
 [[#Acknowledgements]]
+
 [[#Required Materials]]
 
 _Back to the top at ⇲ [[#Document Quick-nav]]_
 
 ## Required Materials
 
-Define Game Master, Define GM, Define Required Materials
+Define Game Master, Define GM, Define Required Materials.
 
 **Blue Box** is a tactical table-top role-playing game set in the fantastic world of BIONICLE.
 
