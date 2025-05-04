@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "tools/Melee Core (Short).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Melee Core (Short)"
             }
           }
         ],
@@ -184,12 +184,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Blue Box Core Rules.md",
-    "image2.png",
-    "image1.png",
+    "tribes/Vo Tribe (Lightning).md",
+    "tribes/Ta Tribe (Fire).md",
+    "tribes/Po Tribe (Stone).md",
+    "tribes/Onu Tribe (Earth).md",
+    "tribes/Ko Tribe (Ice).md",
+    "tribes/Ga Tribe (Water).md",
+    "tribes/Fe Tribe (Iron).md",
+    "tribes/Ba Tribe (Gravity).md",
+    "tribes",
+    "backgrounds/Toa Hero.md",
+    "backgrounds/Scholar.md",
+    "backgrounds/Racer.md",
+    "backgrounds/Muscle.md",
+    "backgrounds/Mask Maker.md",
+    "backgrounds/Kolhii Star.md",
+    "backgrounds/Ill Omen.md",
+    "backgrounds/Dark Hunter.md",
+    "backgrounds/Convict.md",
+    "backgrounds/Chronicler.md",
+    "backgrounds/Arms Dealer.md",
+    "backgrounds",
+    "backgrounds/Amnesiac.md",
+    "backgrounds",
+    "tools/Melee Core (Medium).md",
+    "tools/Melee Core (Long).md",
     "index.md",
+    "Blue Box Core Rules.md",
+    "image1.png",
+    "image2.png",
+    "image3.png",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "category-folder"
