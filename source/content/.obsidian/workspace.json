@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanohi/Hau, Mask of Shielding.md",
+                "file": "conditions/Focused.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hau, Mask of Shielding"
+              "title": "Focused"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "69c0f9035f214cb8",
   "lastOpenFiles": [
+    "kanohi/Hau, Mask of Shielding.md",
     "kanohi/Akaku, Mask of X-Ray Vision.md",
     "kanohi/Kaukau, Mask of Water Breathing.md",
     "kanohi/Pakari, Mask of Strength.md",
@@ -211,7 +212,6 @@
     "conditions/Grappled ↶.md",
     "conditions/💀 Down & Out ↶.md",
     "conditions/Frightened ↶.md",
-    "conditions/Focused.md",
     "kanohi",
     "conditions",
     "tribes",
