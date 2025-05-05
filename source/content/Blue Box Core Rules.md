@@ -697,7 +697,7 @@ Define Rest, Define Long Rest, Define Short Rest, Define Repair
 
 If _Initiative_ is rolled during what is meant to be a _Long Rest_, it instead becomes a _Short Rest_. But, if _Initiative_ is rolled during a _Short Rest_, it typically remains unchanged.
 
-**A character does not need to sleep the entire time** during these rests to benefit from their effects! In fact, only some of the time during a typical rest is a character _[[Unconscious]]_ ↶, up to the discretion of the _GM_. Other time is spent potentially interacting with other members of a camp or resting place, and planning the next moves. Each being during the rest will be able to make _Rest Activities_ (•••) as detailed below.
+**A character does not need to sleep the entire time** during these rests to benefit from their effects! In fact, only some of the time during a typical rest is a character _[[Unconscious ↶]]_ ↶, up to the discretion of the _GM_. Other time is spent potentially interacting with other members of a camp or resting place, and planning the next moves. Each being during the rest will be able to make _Rest Activities_ (•••) as detailed below.
 
 **During a _Short Rest (2-5 hours)_: ★**  
 • Choose **(3)** _Rest Activities_ (•••) of any configuration or order.  
