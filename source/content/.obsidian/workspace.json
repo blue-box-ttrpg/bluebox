@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanohi/Ranma, Mask of Messages.md",
+                "file": "kanohi/Pehkui, Mask of Diminishment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ranma, Mask of Messages"
+              "title": "Pehkui, Mask of Diminishment"
             }
           }
         ]
@@ -171,12 +171,13 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "kanohi/Ranma, Mask of Messages.md",
     "kanohi/Rau, Mask of Translation.md",
     "kanohi/Rode, Mask of Truth.md",
-    "kanohi/Ranma, Mask of Messages.md",
-    "kanohi/Sanok, Mask of Accuracy.md",
     "kanohi/Sana, Mask of Healing.md",
+    "kanohi/Pehkui, Mask of Diminishment.md",
     "kanohi/Starix, Mask of Clairvoyance.md",
+    "kanohi/Sanok, Mask of Accuracy.md",
     "kanohi/Hau, Mask of Shielding.md",
     "tribes/Kra Tribe (Shadow).md",
     "tribes/Vo Tribe (Lightning).md",
@@ -196,7 +197,6 @@
     "backgrounds/Mask Maker.md",
     "backgrounds/Kolhii Star.md",
     "backgrounds/Ill Omen.md",
-    "backgrounds/Dark Hunter.md",
     "glossary",
     "terms",
     "kanohi",

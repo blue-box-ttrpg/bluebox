@@ -2,7 +2,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | The Kanohi Sana allows its wearer to heal nearby allies easily, even from the most grievous of wounds.                                                |
 | Add (+1) Edge to any Medicine check made while wearing the Sana.                                                                                      |
-| *1AP*, 6m, Escalate \| **Healer**                                                                                                                     |
+| *1AP, 6m, Escalate ⇧* \| **Healer**                                                                                                                   |
 | Spend (EP⇧) as a 1AP action. Choose a being within 6m and line-of-sight. Make a Medicine check with (+1) Edge and add your current level to the roll: |
 | **Below target's AC:**<br>• (✦) + SPI of healing.                                                                                                     |
 | **Hit target's AC:**<br>• (2✦✦) + SPI of healing.                                                                                                     |
