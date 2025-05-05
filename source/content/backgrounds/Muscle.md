@@ -1,4 +1,4 @@
-	As a being of great physical stature, your skills have historically been in high-demand. Perhaps you've worked security, shaken-down low-luck indivuduals, or even killed for money or ideals.
+As a being of great physical stature, your skills have historically been in high-demand. Perhaps you've worked security, shaken-down low-luck indivuduals, or even killed for money or ideals.
 
 | **🕮 Muscle** \| *Background*                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

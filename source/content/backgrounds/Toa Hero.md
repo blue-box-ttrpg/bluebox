@@ -1,6 +1,6 @@
 *Prerequisite: You must be Toa or Turaga.*
 
-	You are/were a Toa of great renown. What the common-folk know of your past may or may not be true, but it is legendary. That story gives you great influence - for better or worse.
+You are/were a Toa of great renown. What the common-folk know of your past may or may not be true, but it is legendary. That story gives you great influence - for better or worse.
 
 | **🕮 Toa Hero** \| *Background*                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

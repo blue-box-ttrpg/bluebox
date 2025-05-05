@@ -1,4 +1,4 @@
-	You are a story-teller & record-keeper, tasked with observing historical events closely. Close enough perhaps to make history yourself, not simply record it.
+You are a story-teller & record-keeper, tasked with observing historical events closely. Close enough perhaps to make history yourself, not simply record it.
 
 | **🕮 Chronicler** \| *Background*                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

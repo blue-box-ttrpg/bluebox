@@ -1,4 +1,4 @@
-	You are/were a member of the dangerous Dark Hunters. A secret group of mercenaries most frequently hired to kill, steal, or sabotage.
+You are/were a member of the dangerous Dark Hunters. A secret group of mercenaries most frequently hired to kill, steal, or sabotage.
 
 | **🕮 Dark Hunter** \| *Background*                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-	You are an expert researcher in your field. Quick to absorb information, and sometimes quicker yet to propogate it further.
+You are an expert researcher in your field. Quick to absorb information, and sometimes quicker yet to propogate it further.
 
 | **🕮 Scholar** \| *Background*                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

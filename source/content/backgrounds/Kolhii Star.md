@@ -1,4 +1,4 @@
-	You are/were a well known player of the ever-popular sport of Kolhii. Perhaps you were a sport hero, or even a heel - but either way, you've got fans anywhere the game has a following.
+You are/were a well known player of the ever-popular sport of Kolhii. Perhaps you were a sport hero, or even a heel - but either way, you've got fans anywhere the game has a following.
 
 | **🕮 Kolhii Star** \| *Background*                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

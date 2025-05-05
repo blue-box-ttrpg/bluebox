@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "backgrounds/Toa Hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Toa Hero"
             }
           }
         ]
@@ -169,8 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "backgrounds/Scholar.md",
+    "backgrounds/Racer.md",
+    "backgrounds/Muscle.md",
+    "backgrounds/Mask Maker.md",
+    "backgrounds/Ill Omen.md",
+    "backgrounds/Kolhii Star.md",
+    "backgrounds/Dark Hunter.md",
+    "backgrounds/Convict.md",
+    "backgrounds/Chronicler.md",
+    "backgrounds/Amnesiac.md",
+    "backgrounds/Arms Dealer.md",
+    "index.md",
     "conditions/💀 Down & Out ↶.md",
     "conditions/Poisoned.md",
     "conditions/Disoriented ↶.md",
@@ -186,17 +198,6 @@
     "backgrounds/Toa Hero.md",
     "tribes/Vo Tribe (Lightning).md",
     "tribes/Ta Tribe (Fire).md",
-    "tribes/Onu Tribe (Earth).md",
-    "tribes/Ko Tribe (Ice).md",
-    "backgrounds/Amnesiac.md",
-    "backgrounds/Arms Dealer.md",
-    "backgrounds/Scholar.md",
-    "backgrounds/Racer.md",
-    "backgrounds/Muscle.md",
-    "backgrounds/Mask Maker.md",
-    "backgrounds/Kolhii Star.md",
-    "backgrounds/Ill Omen.md",
-    "backgrounds/Dark Hunter.md",
     "tribes",
     "backgrounds",
     "backgrounds",

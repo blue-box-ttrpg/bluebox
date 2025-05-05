@@ -1,4 +1,4 @@
-	You are/were capable of the creation, modification, or repair of powered or un-powered Kanohi Masks. An important role in any community of mask-wearing beings.
+You are/were capable of the creation, modification, or repair of powered or un-powered Kanohi Masks. An important role in any community of mask-wearing beings.
 
 | **🕮 Mask Maker** \| *Background*                                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

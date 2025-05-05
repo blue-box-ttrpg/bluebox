@@ -1,4 +1,4 @@
-	You are/were an expert in powerful weapons. You have a deep understanding of the trade, and of the components used to craft powerful Tools through-out history.
+You are/were an expert in powerful weapons. You have a deep understanding of the trade, and of the components used to craft powerful Tools through-out history.
 
 | **🕮 Racer** \| *Background*                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,4 +1,4 @@
-	 Guilty or not, you've done hard time. Prisons are dangerous places, and you've learned to closely watch the nerves of those around you - and to keep yours sharp.
+Guilty or not, you've done hard time. Prisons are dangerous places, and you've learned to closely watch the nerves of those around you - and to keep yours sharp.
 
 | **🕮 Convict** \| *Background*                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
