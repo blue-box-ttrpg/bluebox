@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conditions/Grappler.md",
+                "file": "kanohi/Hau, Mask of Shielding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grappler"
+              "title": "Hau, Mask of Shielding"
             }
           }
         ],
@@ -186,6 +186,17 @@
   },
   "active": "69c0f9035f214cb8",
   "lastOpenFiles": [
+    "kanohi/Akaku, Mask of X-Ray Vision.md",
+    "kanohi/Kaukau, Mask of Water Breathing.md",
+    "kanohi/Pakari, Mask of Strength.md",
+    "kanohi/Pehkui, Mask of Diminishment.md",
+    "kanohi/Ranma, Mask of Messages.md",
+    "kanohi/Rau, Mask of Translation.md",
+    "kanohi/Rode, Mask of Truth.md",
+    "kanohi/Sana, Mask of Healing.md",
+    "kanohi/Sanok, Mask of Accuracy.md",
+    "kanohi/Starix, Mask of Clairvoyance.md",
+    "conditions/Grappler.md",
     "conditions/Unmasked ↶.md",
     "conditions/Unconscious ↶.md",
     "conditions/Stasis ↶.md",
@@ -197,21 +208,10 @@
     "conditions/Invisible.md",
     "conditions/Immobilized ↶.md",
     "conditions/Hidden.md",
-    "conditions/Grappler.md",
     "conditions/Grappled ↶.md",
     "conditions/💀 Down & Out ↶.md",
     "conditions/Frightened ↶.md",
     "conditions/Focused.md",
-    "conditions/Exhaustion.md",
-    "conditions/Disoriented ↶.md",
-    "conditions/Dazed ↶.md",
-    "conditions/Blinded ↶.md",
-    "conditions/Bleeding.md",
-    "conditions/Back-footed (↶).md",
-    "tribes/Onu Tribe (Earth).md",
-    "tribes/Ta Tribe (Fire).md",
-    "tribes/Po Tribe (Stone).md",
-    "tribes/Fe Tribe (Iron).md",
     "kanohi",
     "conditions",
     "tribes",
