@@ -1,7 +1,8 @@
 You are Ko tribe, the tribe of Ice. At character creation, and at level up, you must choose (1) Ice Elementalist Calling skill for free.
 
-| *Passive* \| **Hardy Frame**                                                                                                                                 |
+|                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *Passive* \| **Hardy Frame**                                                                                                                                 |
 | You are [[Resistant]] to Ice damage, but [[Vulnerable]] to Fire and Plasma damage.                                                                           |
 | *Passive* \| **Sure-footed**                                                                                                                                 |
 | You do not sink atop deep snow, and are immune to any negative effects of slick surfaces.                                                                    |

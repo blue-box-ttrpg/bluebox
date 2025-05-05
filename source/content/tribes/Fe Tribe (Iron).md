@@ -1,7 +1,8 @@
 You are Fe tribe, the tribe of Iron. At character creation, and at level up, you must choose (1) Iron Elementalist Calling skill for free.
 
-| *Passive* \| **Metallic Minded**                                                                                 |
+|                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- |
+| *Passive* \| **Metallic Minded**                                                                                 |
 | If your Tool is made even partially of metal, add (1) to it's attack and damage rolls.                           |
 | *Passive* \| **Metal-sense**                                                                                     |
 | You know the current Plating of any construct or creature within 3m and *line-of-sight*.                         |

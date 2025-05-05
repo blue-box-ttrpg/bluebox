@@ -1,7 +1,8 @@
 You are (or are rumored to be) a part of some ill-fated prophecy. It may be secret, or known to the public. Much like the prophecy itself, this stigma follows you like a dark cloud.
 
-| **🕮 Ill Omen** \| *Background*                                                                                                                                                                                            |
+|                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🕮 Ill Omen** \| *Background*                                                                                                                                                                                            |
 | Add (+1) Edge to Intimidation checks to those who know your apparent role in the prophecy.                                                                                                                                 |
 | **Dark Symbol:** Roll (CHA) Intimidation checks with (+1) Edge when rolling against those who know your story. Roll all other (CHA) checks with (‒1) Flaw.                                                                 |
 | At the end of the session, regain **up to** (1) (EP⇧) if you fulfilled any below requirement:                                                                                                                              |

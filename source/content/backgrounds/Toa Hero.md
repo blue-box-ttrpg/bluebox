@@ -2,8 +2,9 @@
 
 You are/were a Toa of great renown. What the common-folk know of your past may or may not be true, but it is legendary. That story gives you great influence - for better or worse.
 
-| **🕮 Toa Hero** \| *Background*                                                                                                                                                               |
+|                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🕮 Toa Hero** \| *Background*                                                                                                                                                               |
 | Add (+1) Edge to Persuasion, Deception, and Intimidation checks with those who know your status or story.                                                                                     |
 | **Legend:** When you first meet someone, roll a d6.<br>                                                                                                                                       |
 | • **(1) through (3):** This being does not know you.<br>• **(4) through (6):** This being has heard of your past exploits to some extent.                                                     |
