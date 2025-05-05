@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conditions/💀 Down & Out ↶.md",
+                "file": "tribes/Ga Tribe (Water).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💀 Down & Out ↶"
+              "title": "Ga Tribe (Water)"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "conditions/💀 Down & Out ↶.md",
     "conditions/Poisoned.md",
     "conditions/Disoriented ↶.md",
     "conditions/Dazed ↶.md",
@@ -190,7 +191,6 @@
     "backgrounds/Amnesiac.md",
     "backgrounds/Arms Dealer.md",
     "index.md",
-    "conditions/💀 Down & Out ↶.md",
     "conditions",
     "tribes/Po Tribe (Stone).md",
     "tribes/Ga Tribe (Water).md",
