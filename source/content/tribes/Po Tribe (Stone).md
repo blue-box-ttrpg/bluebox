@@ -8,7 +8,12 @@
 | *1/combat, Escalate ⇧* \| **Heavy Hitter ↶**                                                                                                                                         |
 | 1/combat, when you deal Stone damage through any means, you may spend (EP⇧) to inflict [[Dazed ↶]] on your target.                                                                   |
 
-**Dazed** ↶
+> **Dazed** ↶
+
 >• You are Back-footed (↶). Any effect which would target your AC instead targets your BAC.
->
+
+>• When a being takes on the **Dazed** condition, their next (or current) turn is delayed until the end of the round. Afterwards, they return to their position in initiative. Dazed does not stack.
+
+> **Dazed** ↶
+> • You are Back-footed (↶). Any effect which would target your AC instead targets your BAC.
 >• When a being takes on the **Dazed** condition, their next (or current) turn is delayed until the end of the round. Afterwards, they return to their position in initiative. Dazed does not stack.
