@@ -1,3 +1,3 @@
-• You are [Back-footed](https://docs.google.com/document/d/1tEl2LB8uHrA2UrQv1fZHT4yUiFXjuE3nUA9Efl59TPQ/edit#heading=h.52ca8ahlff0v) (↶). Any effect which would target your AC instead targets your BAC.
+• You are [[Back-footed (↶)]]. Any effect which would target your AC instead targets your BAC.
 
 • You make all ability checks and attack rolls with (‒1) Flaw while within line-of-sight of this condition's source.

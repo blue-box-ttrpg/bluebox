@@ -1,4 +1,4 @@
-• You are Back-footed (↶). Any effect which would target your AC instead targets your BAC.
+• You are [[Back-footed (↶)]]. Any effect which would target your AC instead targets your BAC.
 
  • You cannot take any actions, reactions, or movement.
  

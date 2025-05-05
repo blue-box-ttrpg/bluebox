@@ -6,7 +6,7 @@
 
 **Hidden** ends…
 - after you make an attack roll or force a Save.
-- when you begin or end your turn in line-of-sight of an enemy (unless you are [Invisible](https://docs.google.com/document/d/1tEl2LB8uHrA2UrQv1fZHT4yUiFXjuE3nUA9Efl59TPQ/edit#heading=h.bnzic7qosbpu)).
+- when you begin or end your turn in line-of-sight of an enemy (unless you are [[Invisible]]).
 - when an enemy succeeds on a contested 1AP Perception vs Stealth roll against you.  
 
 ---

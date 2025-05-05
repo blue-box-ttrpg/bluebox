@@ -1,4 +1,4 @@
- • When a being whose Plating reaches (0), they become Shattered.
+ • When a being whose Plating reaches (0), they become **Shattered**.
 
 • A Shattered being has (‒1) Flaw on checks or saves against Intimidation.
 
