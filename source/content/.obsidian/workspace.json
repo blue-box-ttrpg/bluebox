@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tribes/Vo Tribe (Lightning).md",
+                "file": "tribes/Kra Tribe (Shadow).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vo Tribe (Lightning)"
+              "title": "Kra Tribe (Shadow)"
             }
           }
         ],
@@ -186,9 +186,13 @@
   },
   "active": "69c0f9035f214cb8",
   "lastOpenFiles": [
+    "tribes/Fe Tribe (Iron).md",
+    "tribes/Ga Tribe (Water).md",
+    "tribes/Kra Tribe (Shadow).md",
+    "tribes/Ba Tribe (Gravity).md",
+    "tribes/Vo Tribe (Lightning).md",
     "terms",
     "tribes/Ta Tribe (Fire).md",
-    "tribes/Vo Tribe (Lightning).md",
     "conditions/💀 Down & Out ↶.md",
     "tribes/Po Tribe (Stone).md",
     "conditions/Frightened ↶.md",
@@ -209,9 +213,6 @@
     "conditions/Unconscious ↶.md",
     "conditions/Stasis ↶.md",
     "conditions/Shattered.md",
-    "Untitled.md",
-    "conditions/Prone.md",
-    "conditions/Poisoned.md",
     "kanohi",
     "conditions",
     "tribes",

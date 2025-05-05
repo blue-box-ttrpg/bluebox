@@ -1,0 +1,10 @@
+You are Kra tribe, the tribe of Shadow. At character creation, and at level up, you must choose (1) Shadow Elementalist Calling skill for free.
+
+| *Passive* \| Body of Darkness                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You are [[Resistant]] to Shadow damage but [[Vulnerable]] to Light damage. Your sight is unaffected by natural or supernatural darkness.                                                                                                                               |
+| *1/round, Escalate ⇧, Focus* \| **Shroud ↶**                                                                                                                                                                                                                           |
+| 1/round, when you deal Shadow damage through any means, you may spend (EP⇧) to inflict your target with the [[Blinded ↶]] condition. This remains so long as you maintain [[Focused\|Focus]], until the target passes a 1AP SPI save, or until you lose line-of-sight. |
+| Passive \| **Shadow Stalker**                                                                                                                                                                                                                                          |
+| If you are completely or partially obscured in darkness, you may add (+1) Edge to any Stealth checks. Additionally if you succeed on an attack roll while [[Hidden]], add a (✦) of Shadow damage.                                                                      |
+
