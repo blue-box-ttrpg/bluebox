@@ -9,7 +9,7 @@
 # Out ↶
 • You cannot take any actions, reactions, or movement.  
 • You automatically fail all DEX, FOR, and CHA saves.  
-💀 A successful melee attack against you will kill you.  
+**💀 A successful melee attack against you will kill you.**  
 • Receiving healing through any means ends these conditions.  
 • Adjacent allies can make a 1AP Medicine check DC (6) on you to heal you for (✦) HP.  
 • If you heal yourself, and end these conditions, your turn ends.
