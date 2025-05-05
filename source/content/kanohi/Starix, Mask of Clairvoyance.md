@@ -6,6 +6,7 @@
 
 >*Starix Expert | Requires the Kanohi Expert Skill.*
 
-| *Escalate ⇧* \| Starix Expert         |
+|                                       |
 | ------------------------------------- |
+| *Passive* \| **Starix Expert**        |
 | Roll a (3) pre-rolls, instead of (2). |

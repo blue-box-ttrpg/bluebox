@@ -6,6 +6,7 @@
 
 >*Sanok Expert | Requires the Kanohi Expert Skill.*
 
-| *Escalate ⇧* \| Sanok Expert                                                                                                                                               |
+|                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Escalate ⇧* \| **Sanok Expert**                                                                                                                                           |
 | 1/combat, spend (EP⇧) as part of a Reaction to activate the Hau when you are the target of an attack, or made to roll a save. You lose 1AP on your current (or next turn). |
