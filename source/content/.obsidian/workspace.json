@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conditions/Unmasked ↶.md",
+                "file": "conditions/Grappler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unmasked ↶"
+              "title": "Grappler"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "69c0f9035f214cb8",
   "lastOpenFiles": [
+    "conditions/Unmasked ↶.md",
     "conditions/Unconscious ↶.md",
     "conditions/Stasis ↶.md",
     "conditions/Shattered.md",
@@ -211,7 +212,6 @@
     "tribes/Ta Tribe (Fire).md",
     "tribes/Po Tribe (Stone).md",
     "tribes/Fe Tribe (Iron).md",
-    "tribes/Ba Tribe (Gravity).md",
     "kanohi",
     "conditions",
     "tribes",

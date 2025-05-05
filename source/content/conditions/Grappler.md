@@ -9,4 +9,4 @@
 ---
 *1AP* | **Grapple ↶**
 
->Select a target within 1m of you, and make a Grapple check. If your result matches or exceeds the target’s AC, then the Grapple is a success, and they take on the [[Grappled ↶]] condition. While you become their [[Grappler]].
+>Select a target within 1m of you, and make a Grapple check. If your result matches or exceeds the target’s AC, then the Grapple is a success, and they take on the Grappled ↶ condition. While you become their Grappler.
