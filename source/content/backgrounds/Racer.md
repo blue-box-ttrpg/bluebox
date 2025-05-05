@@ -1,4 +1,4 @@
-You go fast. Whether in your custom built transporation vehicle, or jumping behind the wheel of a new machine, your intuition seems to always carry you across the finish line.
+You go fast. Whether in your custom built transportation vehicle, or jumping behind the wheel of a new machine, your intuition seems to always carry you across the finish line.
 
 |                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanohi/Akaku, Mask of X-Ray Vision.md",
+                "file": "backgrounds/Mask Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akaku, Mask of X-Ray Vision"
+              "title": "Mask Maker"
             }
           }
         ]
@@ -171,8 +171,15 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "kanohi/Miru, Mask of Levitation.md",
+    "backgrounds/Muscle.md",
+    "backgrounds/Racer.md",
+    "backgrounds/Toa Hero.md",
+    "backgrounds/Kolhii Star.md",
+    "backgrounds/Ill Omen.md",
+    "backgrounds/Dark Hunter.md",
+    "backgrounds/Convict.md",
     "kanohi/Akaku, Mask of X-Ray Vision.md",
+    "kanohi/Miru, Mask of Levitation.md",
     "kanohi/Arthron, Mask of Sonar.md",
     "conditions/Blinded ↶.md",
     "kanohi/Calix, Mask of Fate.md",
@@ -190,13 +197,6 @@
     "kanohi/Rau, Mask of Translation.md",
     "kanohi/Ranma, Mask of Messages.md",
     "kanohi/Pehkui, Mask of Diminishment.md",
-    "kanohi/Pakari, Mask of Strength.md",
-    "conditions/Hidden.md",
-    "tribes/Kra Tribe (Shadow).md",
-    "tribes/Vo Tribe (Lightning).md",
-    "tribes/Ta Tribe (Fire).md",
-    "tribes/Po Tribe (Stone).md",
-    "tribes/Ko Tribe (Ice).md",
     "glossary",
     "terms",
     "kanohi",
