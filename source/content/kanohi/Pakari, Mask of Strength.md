@@ -8,7 +8,7 @@
 | 1/rest, 2AP \| **Recover**                                                                                      |
 | 1/rest, you may spend 2AP to remove (1) level of Exhaustion and regain (1) (EP⇧).                               |
 
->*Pehkui Expert | Requires the Kanohi Expert Skill.*
+>*Pakari Expert | Requires the Kanohi Expert Skill.*
 
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
