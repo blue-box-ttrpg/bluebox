@@ -1,4 +1,4 @@
-	You are Ta tribe, the tribe of Fire. At character creation, and at level up, you must choose (1) Fire Elementalist Calling skill for free.
+You are Ta tribe, the tribe of Fire. At character creation, and at level up, you must choose (1) Fire Elementalist Calling skill for free.
 
 | *Passive* \| **Tempered Frame**                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

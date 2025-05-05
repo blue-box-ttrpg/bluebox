@@ -15,7 +15,7 @@
               "state": {
                 "file": "tribes/Po Tribe (Stone).md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Po Tribe (Stone)"
@@ -173,6 +173,12 @@
   "lastOpenFiles": [
     "tribes/Ta Tribe (Fire).md",
     "tribes/Po Tribe (Stone).md",
+    "tribes/Vo Tribe (Lightning).md",
+    "tribes/Onu Tribe (Earth).md",
+    "tribes/Ko Tribe (Ice).md",
+    "tribes/Ga Tribe (Water).md",
+    "tribes/Fe Tribe (Iron).md",
+    "tribes/Ba Tribe (Gravity).md",
     "conditions/Bleeding.md",
     "conditions/Hidden.md",
     "conditions/Grappler.md",
@@ -181,7 +187,6 @@
     "conditions/Focused.md",
     "conditions/Disoriented ↶.md",
     "conditions/Exhaustion.md",
-    "tribes/Ga Tribe (Water).md",
     "conditions/💀 Down & Out ↶.md",
     "conditions/Poisoned.md",
     "conditions/Dazed ↶.md",
@@ -192,11 +197,6 @@
     "backgrounds/Racer.md",
     "backgrounds/Muscle.md",
     "backgrounds/Mask Maker.md",
-    "backgrounds/Ill Omen.md",
-    "backgrounds/Kolhii Star.md",
-    "backgrounds/Dark Hunter.md",
-    "backgrounds/Convict.md",
-    "backgrounds/Chronicler.md",
     "conditions",
     "tribes",
     "backgrounds",

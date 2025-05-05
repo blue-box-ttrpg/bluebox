@@ -1,4 +1,4 @@
-	You are Vo tribe, the tribe of Lightning. At character creation, and at level up, you must choose (1) Lightning Elementalist Calling skill for free.
+You are Vo tribe, the tribe of Lightning. At character creation, and at level up, you must choose (1) Lightning Elementalist Calling skill for free.
 
 | *Passive* \| **Insulated**                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

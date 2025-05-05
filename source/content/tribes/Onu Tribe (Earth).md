@@ -1,4 +1,4 @@
-	You are Onu tribe, the tribe of Earth. At character creation, and at level up, you must choose (1) Earth Elementalist Calling skill for free.
+You are Onu tribe, the tribe of Earth. At character creation, and at level up, you must choose (1) Earth Elementalist Calling skill for free.
 
 | *Passive* \| **Of the Land**                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

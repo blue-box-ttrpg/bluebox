@@ -1,4 +1,4 @@
-	You are Ga tribe, the tribe of Water. At character creation, and at level up, you must choose (1) Water Elementalist Calling skill for free.
+You are Ga tribe, the tribe of Water. At character creation, and at level up, you must choose (1) Water Elementalist Calling skill for free.
 
 | <span style="background-color: #77c1ff;">*Passive* \| **Hypoxic Training** </span>                                              |
 | ------------------------------------------------------------------------------------------------------------------------------- |

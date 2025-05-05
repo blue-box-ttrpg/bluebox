@@ -1,4 +1,4 @@
-	You are Ko tribe, the tribe of Ice. At character creation, and at level up, you must choose (1) Ice Elementalist Calling skill for free.
+You are Ko tribe, the tribe of Ice. At character creation, and at level up, you must choose (1) Ice Elementalist Calling skill for free.
 
 | *Passive* \| **Hardy Frame**                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

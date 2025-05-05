@@ -1,4 +1,4 @@
-	You are Fe tribe, the tribe of Iron. At character creation, and at level up, you must choose (1) Iron Elementalist Calling skill for free.
+You are Fe tribe, the tribe of Iron. At character creation, and at level up, you must choose (1) Iron Elementalist Calling skill for free.
 
 | *Passive* \| **Metallic Minded**                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-	You are Ba tribe, the tribe of Gravity. At character creation, and at level up, you must choose (1) Gravity Elementalist Calling skill for free.
+You are Ba tribe, the tribe of Gravity. At character creation, and at level up, you must choose (1) Gravity Elementalist Calling skill for free.
 
 | *Passive, React!, Escalate ⇧* \| **Soft Landing**                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ |
