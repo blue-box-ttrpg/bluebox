@@ -13,8 +13,8 @@ Hidden ends…
 
 ---
 
-> [!STAR] *1AP* | **Hide**
+> *1AP* | **Hide**
 > Spend 1AP in an attempt to evade detection. You take on the Hidden condition.
 
-> [!STAR] *1AP* | **Search**
+> *1AP* | **Search**
 > Roll contested Perception vs Stealth roll against any Hidden targets you know the general location of. If you succeed against any targets, they are no longer Hidden from you.
