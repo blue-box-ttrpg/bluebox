@@ -6,9 +6,8 @@
 | • Hidden attacks bypass the barrier.                                                                                                                                                        |
 | • Psychic attacks bypass the barrier.                                                                                                                                                       |
 
-
 >*Hau Expert | Requires the Kanohi Expert Skill.*
 
-| *Escalate ⇧*\| Hau Expert                                                                                                                                                  |
+| *Escalate ⇧* \| Hau Expert                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1/combat, spend (EP⇧) as part of a Reaction to activate the Hau when you are the target of an attack, or made to roll a save. You lose 1AP on your current (or next turn). |
