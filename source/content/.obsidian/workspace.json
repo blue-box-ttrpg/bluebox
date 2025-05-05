@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanohi/Pehkui, Mask of Diminishment.md",
+                "file": "kanohi/Kaukau, Mask of Water Breathing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pehkui, Mask of Diminishment"
+              "title": "Kaukau, Mask of Water Breathing"
             }
           }
         ]
@@ -171,11 +171,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "kanohi/Miru, Mask of Levitation.md",
+    "kanohi/Kaukau, Mask of Water Breathing.md",
+    "kanohi/Pakari, Mask of Strength.md",
+    "kanohi/Pehkui, Mask of Diminishment.md",
+    "kanohi/Sana, Mask of Healing.md",
     "kanohi/Ranma, Mask of Messages.md",
     "kanohi/Rau, Mask of Translation.md",
     "kanohi/Rode, Mask of Truth.md",
-    "kanohi/Sana, Mask of Healing.md",
-    "kanohi/Pehkui, Mask of Diminishment.md",
     "kanohi/Starix, Mask of Clairvoyance.md",
     "kanohi/Sanok, Mask of Accuracy.md",
     "kanohi/Hau, Mask of Shielding.md",
@@ -194,9 +197,6 @@
     "backgrounds/Scholar.md",
     "backgrounds/Racer.md",
     "backgrounds/Muscle.md",
-    "backgrounds/Mask Maker.md",
-    "backgrounds/Kolhii Star.md",
-    "backgrounds/Ill Omen.md",
     "glossary",
     "terms",
     "kanohi",
