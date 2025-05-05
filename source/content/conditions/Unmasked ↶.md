@@ -1,6 +1,6 @@
 • Only beings who must wear a Kanohi mask will take on the Unmasked condition: Toa, Matoran, or Turaga.
 
-• You are Back-footed (↶). Any effect which would target your AC instead targets your BAC.
+• You are [[Back-footed (↶)]]. Any effect which would target your AC instead targets your BAC.
 
 • At the start of your turn, make a DC (6) SPI save, or fall Unconscious ↶. 
 
