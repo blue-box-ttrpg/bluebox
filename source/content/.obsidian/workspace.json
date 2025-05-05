@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanohi/Kaukau, Mask of Water Breathing.md",
-                "mode": "source",
+                "file": "kanohi/Hau, Mask of Shielding.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kaukau, Mask of Water Breathing"
+              "title": "Hau, Mask of Shielding"
             }
           }
         ]
@@ -171,14 +171,18 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "kanohi/Huna, Mask of Concealment.md",
+    "kanohi/Kakama, Mask of Speed.md",
+    "kanohi/Pehkui, Mask of Diminishment.md",
     "kanohi/Miru, Mask of Levitation.md",
     "kanohi/Kaukau, Mask of Water Breathing.md",
-    "kanohi/Pakari, Mask of Strength.md",
-    "kanohi/Pehkui, Mask of Diminishment.md",
-    "kanohi/Sana, Mask of Healing.md",
+    "kanohi/Iden, Mask of Spirit.md",
+    "conditions/Hidden.md",
     "kanohi/Ranma, Mask of Messages.md",
     "kanohi/Rau, Mask of Translation.md",
     "kanohi/Rode, Mask of Truth.md",
+    "kanohi/Sana, Mask of Healing.md",
+    "kanohi/Pakari, Mask of Strength.md",
     "kanohi/Starix, Mask of Clairvoyance.md",
     "kanohi/Sanok, Mask of Accuracy.md",
     "kanohi/Hau, Mask of Shielding.md",
@@ -193,10 +197,6 @@
     "tribes/Ba Tribe (Gravity).md",
     "kanohi/Akaku, Mask of X-Ray Vision.md",
     "conditions/Back-footed (↶).md",
-    "backgrounds/Toa Hero.md",
-    "backgrounds/Scholar.md",
-    "backgrounds/Racer.md",
-    "backgrounds/Muscle.md",
     "glossary",
     "terms",
     "kanohi",
