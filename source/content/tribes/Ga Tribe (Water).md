@@ -1,6 +1,6 @@
 	You are Ga tribe, the tribe of Water. At character creation, and at level up, you must choose (1) Water Elementalist Calling skill for free.
 
-| <td style="background-color: #1b14ae;"> *Passive* \| **Hypoxic Training** </td>                                                                                              |
+| <span style="background-color: #1b14ae;"> *Passive* \| **Hypoxic Training** </span>                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | Your swim speed is equal to your regular speed, and you can hold your breath for (10) minutes before needing to make any rolls. |
 | *Passive* \| **Dilute**                                                                                                         |
