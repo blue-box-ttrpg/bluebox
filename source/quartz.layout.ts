@@ -26,17 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer({
-  sortFn: (a, b) => {
-    return a.displayName.localeCompare(b.displayName)
-  },
-}
-{
-  mapFn: (node) => {
-    node.displayName = node.displayName.toUpperCase()
-    return node
-  },
-}),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
