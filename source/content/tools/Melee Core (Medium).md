@@ -10,5 +10,5 @@
 
 ---
 
-\> **Modules Available to the Mle. Medium Core:**  
->Utility, Universal, & Melee.
+\> ⬢ **Modules Available to the Mle. Medium Core:**  
+>(⚙Utility), (⇘ Universal), & (⚔ Melee).

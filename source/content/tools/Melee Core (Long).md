@@ -12,5 +12,5 @@
 
 ---
 
-\> **Modules Available to the Mle. Short Core:**  
->Utility, Universal, & Melee.
+\> ⬢ **Modules Available to the Mle. Long Core:**  
+>(⚙Utility), (⇘ Universal), & (⚔ Melee).

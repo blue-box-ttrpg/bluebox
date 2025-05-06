@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Melee Core (Medium).md",
+                "file": "tools/Ranged Core (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melee Core (Medium)"
+              "title": "Ranged Core (Medium)"
             }
           }
         ]
@@ -171,9 +171,11 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "tools/Melee Shield.md",
     "tools/Melee Core (Short).md",
     "tools/Melee Core (Medium).md",
     "tools/Melee Core (Long).md",
+    "tools/Ranged Core (Medium).md",
     "backgrounds/Toa Hero.md",
     "backgrounds/Scholar.md",
     "backgrounds/Mask Maker.md",
@@ -195,8 +197,6 @@
     "kanohi/Kakama, Mask of Speed.md",
     "kanohi/Kaukau, Mask of Water Breathing.md",
     "kanohi/Huna, Mask of Concealment.md",
-    "kanohi/Starix, Mask of Clairvoyance.md",
-    "kanohi/Sanok, Mask of Accuracy.md",
     "glossary",
     "terms",
     "kanohi",
