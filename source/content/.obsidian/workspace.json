@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backgrounds/Toa Hero.md",
-                "mode": "source",
+                "file": "tools/Melee Core (Long).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toa Hero"
+              "title": "Melee Core (Long)"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "tools/Melee Core (Medium).md",
+    "tools/Melee Core (Long).md",
+    "backgrounds/Toa Hero.md",
     "backgrounds/Scholar.md",
     "backgrounds/Mask Maker.md",
     "backgrounds/Racer.md",
     "backgrounds/Muscle.md",
-    "backgrounds/Toa Hero.md",
     "backgrounds/Kolhii Star.md",
     "backgrounds/Ill Omen.md",
     "backgrounds/Dark Hunter.md",
@@ -195,8 +197,6 @@
     "kanohi/Starix, Mask of Clairvoyance.md",
     "kanohi/Sanok, Mask of Accuracy.md",
     "kanohi/Rode, Mask of Truth.md",
-    "kanohi/Sana, Mask of Healing.md",
-    "kanohi/Rau, Mask of Translation.md",
     "glossary",
     "terms",
     "kanohi",
