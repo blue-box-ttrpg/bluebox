@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modules/Climbing ⚙.md",
+                "file": "modules/⚙ Blind-sensor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climbing ⚙"
+              "title": "⚙ Blind-sensor"
             }
           }
         ]
@@ -171,8 +171,18 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "modules/Swimming ⚙.md",
-    "modules/Climbing ⚙.md",
+    "modules/⚙ Prosthetic.md",
+    "modules/⚙ Blind-sensor.md",
+    "modules/⚙ Mounted.md",
+    "modules/⚙ UTILITY.md",
+    "modules/⚙ Telescoping.md",
+    "modules/⚙ Swimming.md",
+    "modules/⚙ Skate.md",
+    "modules/⚙ Lock-pick.md",
+    "modules/⚙ Glider.md",
+    "modules/⚙ Excavation.md",
+    "modules/⚙ Crafting.md",
+    "modules/⚙ Climbing.md",
     "tools/⟳ Throwing Disc Core.md",
     "tools/➹ Ranged Core (Short).md",
     "tools/➹ Ranged Core (Medium).md",
@@ -187,16 +197,6 @@
     "backgrounds/Muscle.md",
     "backgrounds/Kolhii Star.md",
     "backgrounds/Ill Omen.md",
-    "backgrounds/Dark Hunter.md",
-    "backgrounds/Convict.md",
-    "kanohi/Akaku, Mask of X-Ray Vision.md",
-    "kanohi/Miru, Mask of Levitation.md",
-    "kanohi/Arthron, Mask of Sonar.md",
-    "conditions/Blinded ↶.md",
-    "kanohi/Calix, Mask of Fate.md",
-    "tribes/Onu Tribe (Earth).md",
-    "tribes/Ba Tribe (Gravity).md",
-    "kanohi/Hau, Mask of Shielding.md",
     "glossary",
     "terms",
     "kanohi",
