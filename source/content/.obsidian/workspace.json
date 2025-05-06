@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Ranged Core (Medium).md",
+                "file": "tools/Melee Core (Short).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ranged Core (Medium)"
+              "title": "Melee Core (Short)"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "tools/Melee Shield.md",
-    "tools/Melee Core (Short).md",
-    "tools/Melee Core (Medium).md",
-    "tools/Melee Core (Long).md",
     "tools/Ranged Core (Medium).md",
+    "tools/Melee Shield.md",
+    "tools/Melee Core (Long).md",
+    "tools/Melee Core (Medium).md",
+    "tools/Melee Core (Short).md",
     "backgrounds/Toa Hero.md",
     "backgrounds/Scholar.md",
     "backgrounds/Mask Maker.md",
