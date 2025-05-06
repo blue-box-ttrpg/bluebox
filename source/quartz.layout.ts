@@ -48,3 +48,16 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  sortFn: (a, b) => {
+    return a.displayName.localeCompare(b.displayName)
+  },
+})
+
+Component.Explorer({
+  mapFn: (node) => {
+    node.displayName = node.displayName.toUpperCase()
+    return node
+  },
+})
