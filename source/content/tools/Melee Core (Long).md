@@ -1,5 +1,5 @@
 
-|            Melee Core (Long)            |                                    |                      |
+|           ⚔ Melee Core (Long)           |                                    |                      |
 | :-------------------------------------: | :--------------------------------: | :------------------: |
 | **Add to hit & damage:**<br>FOR/DEX/KNO | **Module Slots at Lvl 1:**<br>⬡⬡⬡⬡ |                      |
 |             **Reach:** 1-3m             |       **(❢) *Crit!:*** on 3m       | **(X) Fall-off:** 1m |
@@ -12,5 +12,5 @@
 
 ---
 
-\>**Modules Available to the Mle. Short Core:**  
+\> **Modules Available to the Mle. Short Core:**  
 >Utility, Universal, & Melee.
