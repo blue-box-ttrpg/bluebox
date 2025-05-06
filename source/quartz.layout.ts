@@ -26,10 +26,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Explorer({
+  sortFn: (a, b) => {
+    return a.displayName.localeCompare(b.displayName)
+  },
+}
+{
+  mapFn: (node) => {
+    node.displayName = node.displayName.toUpperCase()
+    return node
+  },
+}),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
