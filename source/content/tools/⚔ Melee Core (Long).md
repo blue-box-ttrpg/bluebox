@@ -8,7 +8,7 @@
 
 >***(❢) Crit!* at 3m:** Any successful attacks at this distance will add an additional Power Die (✦) to the damage roll.
 
->**(X) Fall-off at 1m:** Attacks made within 1m are with (‒2) Flaw.
+>**(X) Fall-off at 1m:** Attacks made at 1m reach are with (‒2) Flaw.
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Melee Core (Short).md",
+                "file": "tools/➹ Ranged Core (Short).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melee Core (Short)"
+              "title": "➹ Ranged Core (Short)"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "tools/Ranged Core (Medium).md",
-    "tools/Melee Shield.md",
-    "tools/Melee Core (Long).md",
-    "tools/Melee Core (Medium).md",
-    "tools/Melee Core (Short).md",
+    "tools/⟳ Throwing Disc Core.md",
+    "tools/➹ Ranged Core (Short).md",
+    "tools/➹ Ranged Core (Medium).md",
+    "tools/⛉ Melee Shield.md",
+    "tools/⚔ Melee Core (Short).md",
+    "tools/⚔ Melee Core (Long).md",
+    "tools/⚔ Melee Core (Medium).md",
     "backgrounds/Toa Hero.md",
     "backgrounds/Scholar.md",
     "backgrounds/Mask Maker.md",
@@ -195,8 +197,6 @@
     "kanohi/Hau, Mask of Shielding.md",
     "kanohi/Iden, Mask of Spirit.md",
     "kanohi/Kakama, Mask of Speed.md",
-    "kanohi/Kaukau, Mask of Water Breathing.md",
-    "kanohi/Huna, Mask of Concealment.md",
     "glossary",
     "terms",
     "kanohi",
