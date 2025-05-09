@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modules/⇘ Integrated Cord ↶ ⬡.md",
+                "file": "conditions/Grappler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⇘ Integrated Cord ↶ ⬡"
+              "title": "Grappler"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "modules/⇘ Collapsible ⬡.md",
-    "modules/⇘ Integrated Cord ↶ ⬡.md",
+    "modules/⇘ Integrated Cord ↶.md",
     "modules/⇘ Universal Modules.md",
+    "modules/⇘ Collapsible ⬡.md",
     "modules/⇘ Re-tooling Retrofit.md",
     "modules/⚙ Climbing.md",
     "tools/⚔ Melee Core (Long).md",

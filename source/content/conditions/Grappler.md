@@ -2,7 +2,7 @@
   
 • While you are the **Grappler**, you may move up to ½ your speed and move the [[Grappled ↶]] being with you, retaining your relative positions. If the [[Grappled ↶]] being is a size larger than you, then you must re-roll a successful Grapple check or be unable to move.  
   
-• This status ends when the [[Grappled ↶]] being breaks the Grapple, when you are [[💀 Down & Out ↶|Out ↶]] or fall [[Unconscious ↶]], or when you choose to end it as a Free Action on your turn. 
+• This status ends when the [[Grappled ↶]] being breaks the Grapple, when you are [[💀 Down & Out ↶|Out ↶]] or fall [[Unconscious ↶]], or when you choose to end it as a Free Action on your turn.
   
 *Here is the below action Grapple, for convenience:*
 
