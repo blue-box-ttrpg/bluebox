@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Flurry of Fury.md",
+                "file": "skills/Martialist/Juggernaut ★.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flurry of Fury"
+              "title": "Juggernaut ★"
             }
           }
         ]
@@ -169,13 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "skills/Strike & Hold ↶.md",
-    "skills/Slam (Handler).md",
-    "skills/Slam.md",
-    "skills/Flurry of Fury.md",
-    "skills/Martialist/★ Juggernaut.md",
+    "skills/Martialist/Slam.md",
+    "skills/Martialist/Juggernaut ★.md",
+    "skills/Martialist/Flurry of Fury.md",
+    "skills/Martialist/Slam (Handler).md",
+    "skills/Martialist/Strike & Hold ↶.md",
     "conditions/Grappled ↶.md",
     "backgrounds/Toa Hero.md",
     "kanohi/Akaku, Mask of X-Ray Vision.md",
