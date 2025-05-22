@@ -8,7 +8,9 @@ You are **Practiced** in the Grapple ↶ Ability, (1) other Ability of your choi
 | [[Grappler\|Grappling]] does not prevent you from taking Reactions.                                         |
 | *1/round, Escalate ⇧* \| **Ring Fighter**                                                                   |
 | 1/round, you may spend (EP⇧) to ignore the (‒1) Flaw penalty on attacks made while [[Grappler\|Grappling]]. |
-_Here is the below action Grapple, for convenience:_
+
+
+Here is the below action Grapple, for convenience:
 
 ---
 
