@@ -10,7 +10,7 @@ You are **Practiced** in the Grapple ↶ Ability, (1) other Ability of your choi
 | 1/round, you may spend (EP⇧) to ignore the (‒1) Flaw penalty on attacks made while [[Grappler\|Grappling]]. |
 
 
-Here is the below action Grapple, for convenience:
+*Here is the below action Grapple, for convenience:*
 
 ---
 
