@@ -1,4 +1,4 @@
-Excels at ranged weaponry of all kinds.
+Excels at ranged attacks of all kinds.
 
 You are **Practiced** in the Perception Ability, (1) other Ability of your choice, and in the DEX save.
 
