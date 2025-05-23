@@ -1,4 +1,4 @@
-Builds, fixes, and hacks.
+Build, fix, hack.
 
 You are **Practiced** in the Crafting Ability, (1) other Ability of your choice, and in the KNO save.
 

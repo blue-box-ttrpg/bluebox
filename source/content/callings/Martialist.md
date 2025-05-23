@@ -1,4 +1,4 @@
-Grab, smash, drag, toss.
+Grab, smash, toss.
 
 You are **Practiced** in the Grapple ↶ Ability, (1) other Ability of your choice, and in the FOR save.
 

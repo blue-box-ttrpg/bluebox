@@ -1,4 +1,4 @@
-*Prerequisite: You have must unlocked Slam to unlock this skill →
+*Prerequisite: You have must unlocked Slam to unlock this skill →*
 
 *Escalate ⇧*
 
