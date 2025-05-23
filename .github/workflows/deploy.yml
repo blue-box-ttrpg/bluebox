@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
-    - name: Deploy to Server
+    - name: Deploy to Server and Move to folder
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.SERVER_HOST }}
@@ -18,3 +18,5 @@ jobs:
         script: |
           cd /root/character-sheet/content/
           git pull origin main
+          cp -r /root/character-sheet/content/source/content/* /root/character-sheet/content/
+          rm -rf /root/character-sheet/content/source
