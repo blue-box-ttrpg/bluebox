@@ -1,6 +1,6 @@
-• You are [[Back-footed (↶)]].. Any effect which would target your AC instead targets your BAC.
+• You are [[Back-footed (↶)]]. Any effect which would target your AC instead targets your BAC.
 
-• You cannot make voluntary movement, and any attacks or DEX saves you make are done so with (‒1) Flaw.
+• You cannot take voluntary movement, and any attacks or DEX saves you make are done so with (‒1) Flaw.
 
 • You cannot perform Reactions.
 
