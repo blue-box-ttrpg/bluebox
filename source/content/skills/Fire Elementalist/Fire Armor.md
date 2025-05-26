@@ -1,0 +1,9 @@
+For 1AP, you become wreathed in flames until the end of your next turn.
+
+|                                                                                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *1AP, Focus*                                                                                                                                                                                                                                                                                       |
+| On activation, and at the start of any turn Fire Armor is active, any being within 1m of you must DEX Save or take (✦) + SPR of Fire damage. Any being within 1m that you are currently Grappling auto-fails this Save. Beings must make this Save any time they start their turn adjacent to you. |
+| While active, you are Resistant to Ice damage.                                                                                                                                                                                                                                                     |
+| You may spend an (EP⇧) when Fire Armor expires to extend it to the end of your next turn.                                                                                                                                                                                                          |
+
