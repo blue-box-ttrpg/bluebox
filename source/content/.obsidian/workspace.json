@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "f94f3aa6659aa025",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "f9c6d8c68972a323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Martialist/Strike & Hold ↶.md",
+                "file": "skills/Martialist/Slam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strike & Hold ↶"
-            }
-          },
-          {
-            "id": "466578ccf445d85d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "callings/Shield-fighter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shield-fighter"
+              "title": "Slam"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "466578ccf445d85d",
+  "active": "f9c6d8c68972a323",
   "lastOpenFiles": [
-    "callings/Uniter.md",
-    "callings/Shield-fighter.md",
+    "skills/Martialist/Strike & Hold ↶.md",
     "skills/Martialist/★ Capstone - Juggernaut.md",
-    "skills/Uniter/★ Capstone - To Victory.md",
     "skills/Martialist/Slam (Handler).md",
+    "skills/Martialist/Slam.md",
+    "skills/Martialist/Flurry of Fury.md",
+    "skills/Uniter/★ Capstone - To Victory.md",
+    "callings/Shield-fighter.md",
+    "callings/Uniter.md",
     "skills/Uniter/Beacon.md",
     "skills/Uniter/Observer.md",
     "skills/Uniter/Preserver.md",
@@ -209,9 +197,6 @@
     "modules/⬡⬡ Serrated Edge.md",
     "modules/⬡⬡ Sana Applicator.md",
     "modules/⬡⬡ Protosteel Materials.md",
-    "modules/⬡ Collapsible.md",
-    "modules/Untitled.md",
-    "modules/⬡ Pinning ↶  (Quick-.md",
     "image3.png",
     "image2.png",
     "image1.png",
