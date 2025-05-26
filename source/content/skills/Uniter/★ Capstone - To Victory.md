@@ -9,7 +9,7 @@
 
 |                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| *1/rest, (EP⇧⇧)* \| **Juggernaut**                                                                                                                                                               |
+| *1/rest, (EP⇧⇧)* \| **To Victory**                                                                                                                                                               |
 | 1/rest, you may spend (2) (EP⇧⇧) at any point in the round, even in the middle of an enemy's turn. Choose (1) ally within 12m you can communicate with. They may choose either of the following: |
 | • Make any Move Action without provoking Opportunity Attacks.                                                                                                                                    |
 | • Clear (1) condition, and end it's triggering effect.                                                                                                                                           |

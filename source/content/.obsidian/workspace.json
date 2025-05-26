@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Martialist/★ Capstone - Juggernaut.md",
+                "file": "callings/Shield-fighter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "★ Capstone - Juggernaut"
+              "title": "Shield-fighter"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "466578ccf445d85d",
   "lastOpenFiles": [
-    "skills/Uniter/★ Capstone - To Victory.md",
+    "callings/Uniter.md",
+    "callings/Shield-fighter.md",
     "skills/Martialist/★ Capstone - Juggernaut.md",
+    "skills/Uniter/★ Capstone - To Victory.md",
     "skills/Martialist/Slam (Handler).md",
     "skills/Uniter/Beacon.md",
     "skills/Uniter/Observer.md",
@@ -198,7 +200,6 @@
     "modules/⬡⬡ Retargeting.md",
     "modules/⬡⬡⬡ Fold-out Shield.md",
     "modules/⬡⬡⬡ Power Drain.md",
-    "callings/Uniter.md",
     "callings/Martialist.md",
     "modules/⬡ Integrated Cord ↶.md",
     "modules/⬡⬡ Channel Conduit.md",
@@ -211,7 +212,6 @@
     "modules/⬡ Collapsible.md",
     "modules/Untitled.md",
     "modules/⬡ Pinning ↶  (Quick-.md",
-    "skills/Martialist/Strike & Hold ↶.md",
     "image3.png",
     "image2.png",
     "image1.png",

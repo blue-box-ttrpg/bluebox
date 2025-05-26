@@ -7,8 +7,8 @@
 
 *• Your FOR must be a (+2) or higher.*
 
-|                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Passive* \| **Juggernaut** ★                                                                                                                                                   |
-| While dragging a [[Grappled ↶]] enemy, you may pass through other enemy hexes as if they were not there. Any being you pass through must FOR save or take a (✦) of Pure damage. |
-| A target may be made to make this save only 1/round.                                                                                                                            |
+|                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *Passive, (EP⇧⇧)* \| **Juggernaut** ★                                                                                                                                                                                                            |
+| Spend (2) (EP⇧⇧) to activate Juggernaut until the end of combat. While dragging a [[Grappled ↶]] enemy, you may pass through other enemy hexes as if they were not there. Any being you pass through must FOR save or take a (✦) of Pure damage. |
+| A target may be made to make this save only 1/round.                                                                                                                                                                                             |
