@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Fire Elementalist/Fire Armor.md",
+                "file": "skills/Fire Elementalist/Fire Lance (Backfiring).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fire Armor"
+              "title": "Fire Lance (Backfiring)"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "f9c6d8c68972a323",
   "lastOpenFiles": [
-    "skills/Fire Elementalist/Fire Step.md",
-    "skills/Fire Elementalist/Fire Zone.md",
     "skills/Fire Elementalist/Fire Lance (Flamethrower).md",
     "skills/Fire Elementalist/Fire Lance (Backfiring).md",
     "skills/Fire Elementalist/Fire Armor.md",
+    "skills/Fire Elementalist/Fire Step.md",
+    "skills/Fire Elementalist/Fire Zone.md",
     "skills/Martialist/Slam (Handler).md",
     "tools/⛉ Melee Shield.md",
     "skills/Fire Elementalist",
